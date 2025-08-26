@@ -7,8 +7,4 @@ for i in range(10):
     print(i)
 
 
-print("xxx， new line")
-
-print("xxx， new line2")
-
-
+print("xDDDxx")
